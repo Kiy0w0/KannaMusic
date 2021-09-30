@@ -27,9 +27,7 @@ Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installa
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
-
-### **DO NOT JOIN OUR DISCORD FOR DASHBOARD ISSUES AND LAVALINK ISSUES. WE WILL NOT HELP YOU.**
+## 📝 [Support Server](https://discord.gg/fqjdsyEq24)
 
 If you have major coding issues with this bot, please join and ask for help.
 
@@ -49,9 +47,3 @@ If you have major coding issues with this bot, please join and ask for help.
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
-
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
-
-Made with :heart: and JavaScript!
