@@ -8,8 +8,14 @@
 - [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
 
 ## 📝 Tutorial
-Kalian bisa klik Link di bawah
+Kalian bisa klik Link ->
 [Tutorial Replit](https://github.com/CarameloSz/KannaMusic/blob/main/readme.md)
+
+
+## 📝 [Support Server](https://discord.gg/fqjdsyEq24)
+
+### **Jika Memiliki masalah tentang bot boleh masuk ke server kamu
+Kami tidak akan Melayani tentang dashboard!.**
 
 
 ## 📸 Screenshots
@@ -19,8 +25,6 @@ Kalian bisa klik Link di bawah
 ![Contoh](https://media.discordapp.net/attachments/838040347278835752/893106078869504000/unknown.png?width=964&height=480)
 
 
-
-**Jangan Join hanya karna lavalink bermasalah!**
 
 > **Kalian minimal Menggunakan Discord.js 12 atau kebawah,Jika 12 keatas Bot Nya akan Rusak**
 >
