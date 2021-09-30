@@ -6,7 +6,7 @@
 > **Versi Selanjutnya Mungkin Akan dibikin Segera~**
 
 
-## **Lavalink**
+## **🌟🌟Lavalink🌟**
 
 >-Lava.link
 
@@ -20,9 +20,7 @@
 
 ## ✨Kalian Bisa menggunakan Bot ini✨
 
- Kalian Hanya Perlu copy Link
-## [Klik Link Ini](https://github.com/CarameloSz/KannaMusic)
- 1.Bikin Akun -> [Repl.it(https://repl.it)
+## 1.Bikin Akun -> [Repl.it](https://repl.it)
 Semoga Membantu.
 
 [![Jalankan Di Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
