@@ -7,10 +7,9 @@
 [Klik Link Ini](https://github.com/CarameloSz/KannaMusic)
 Kemudian Masukan Ke Replit kalian >_<
 Semoga Membantu.
-(https://user-images.githubusercontent.com/70309342/135445483-d02dceaa-91b9-4366-b1ea-0953c74afbe4.jpg)
+[![Jalankan Di Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
 
 
 
