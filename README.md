@@ -3,7 +3,7 @@
 
 > **Kalian minimal Menggunakan Discord.js 12 atau kebawah,Jika 12 keatas Bot Nya akan Rusak**
 >
-> **VERSION 5 OF THIS BOT HAS NO RELEASE DATE**
+> **Versi Selanjutnya Mungkin Akan dibikin Segera~**
 
 
 > **Lavalink**
