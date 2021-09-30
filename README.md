@@ -15,7 +15,7 @@ Kalian bisa klik Link ->
 ## 📝 [Support Server](https://discord.gg/fqjdsyEq24)
 
 ### **Jika Memiliki masalah tentang bot boleh masuk ke server
-Kami tidak akan Melayani tentang dashboard!**
+Kami tidak akan Melayani tentang dashboard**
 
 
 ## 📸 Screenshots
