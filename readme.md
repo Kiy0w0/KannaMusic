@@ -30,8 +30,8 @@ Kemudian kamu bisa mengedit`botconfig.js` Dan isi Lava link kalian[Lavalink](htt
 
 ### Terakhir.
 
-Setelah anda merestart bot anda, Kemudian Invite menggunakan Template ini. [Template](https://discord.com/oauth2/authorize?client_id=CLIENT_ID&scope=bot%20applications.commands&permissions=2205280576)
+Setelah anda merestart bot anda, Kemudian Invite menggunakan Template ini. [Template](https://discord.com/oauth2/authorize?client_id=719506504058798141&permissions=2205280576&scope=bot%20identify%20guilds%20applications.commands&redirect_url=http://localhost/api/callback&response_type=code)
 
-* CLIENT_ID needs to be replaced with your bot Id
-* Permission calculator: [learn more](https://finitereality.github.io/permissions-calculator)
-* You can use #generateInvite instead: [learn more](https://discord.js.org/#/docs/main/main/class/Client?scrollTo=generateInvite)
+* CLIENT_ID perlu diganti dengan ID bot Anda
+* Permission calculator: [Pelajari Lebih lanjut](https://finitereality.github.io/permissions-calculator)
+* Kamu bisa menggunakan #generateInvite Sbg gantinya: [Pelajari Lebih lanjut](https://discord.js.org/#/docs/main/main/class/Client?scrollTo=generateInvite)
