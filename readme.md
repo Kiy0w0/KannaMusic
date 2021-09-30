@@ -1,11 +1,11 @@
-# Prerequisites
-## Create a Discord Application
-- go to the [Discord Developer portal](https://discord.com/developers/applications)
-- create a new application + bot
-- create a bot invitelink using it's client id [here](https://discordapi.com/permissions.html)
-- save the bot token for later
-## Grab a Spotify Client ID & Secret
-- login [here](https://developer.spotify.com/dashboard/) and create an application
+# Langkah
+## Bikin Bot anda di developer portal
+- Pergi Ke -> [Discord Developer portal](https://discord.com/developers/applications)
+- Bikin Aplikasi baru+Bot baru,jika sudah punya bot yang lama bisa digunakan
+- Bikin Bot invite Link disini -> [here](https://discordapi.com/permissions.html)
+- Save bot token kalian
+## Ambil Client & Client Secret Spotify Kalian Di link bawah ini!
+- login [here](https://developer.spotify.com/dashboard/) Login/Bikin akun,kemudian Bikin aplikasi
 
 # Installation
 
