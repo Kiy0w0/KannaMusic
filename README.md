@@ -4,9 +4,8 @@
 ## ✨Kalian Bisa menggunakan Bot ini✨
 
  Kalian Hanya Perlu copy Link
- https://github.com/CarameloSz/KannaMusic
+[![Klik Link dibawah ini](https://github.com/CarameloSz/KannaMusic)]
 Kemudian Masukan Ke Replit kalian >_<
 Semoga Membantu.
 
-Credit.
-https://github.com/SudhanPlayz/Discord-MusicBot
+[![Credit!](https://github.com/SudhanPlayz/Discord-MusicBot)]
