@@ -6,7 +6,7 @@
 > **Versi Selanjutnya Mungkin Akan dibikin Segera~**
 
 
-## **🌟🌟Lavalink🌟**
+## **🌟Lavalink🌟**
 
 >-Lava.link
 
