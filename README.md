@@ -7,6 +7,10 @@
 - discord.js@12.5.3
 - [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
 
+## 📝 Tutorial
+Kalian bisa klik Link di bawah
+[Tutorial Replit](https://github.com/CarameloSz/KannaMusic/blob/main/readme.md)
+
 
 ## 📸 Screenshots
 
@@ -38,7 +42,7 @@
 ## 💨 Jalankan Project
 
 ## 1.Bikin Akun -> [Repl.it](https://repl.it)
-Semoga Membantu.
+
 
 [![Jalankan Di Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
 
