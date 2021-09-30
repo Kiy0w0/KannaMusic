@@ -59,4 +59,4 @@ Kami tidak akan Melayani tentang dashboard
 
 
 Dan jangan Lupa
-[ChaewonLucubanged](https://media.discordapp.net/attachments/838625124994252801/893107901231681576/db529151f5615172c35a878a0d120cad.jpg?width=360&height=480)
+![Contoh](https://media.discordapp.net/attachments/838625124994252801/893107901231681576/db529151f5615172c35a878a0d120cad.jpg?width=360&height=480)
