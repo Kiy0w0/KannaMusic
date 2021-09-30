@@ -1,6 +1,10 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> KannaMusic <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">Jangan Lupa sertakan Kredit Yha!</p>
 
+> **Kalian minimal Menggunakan Discord.js 12 atau kebawah,Jika 12 keatas Bot Nya akan Rusak**
+>
+> **VERSION 5 OF THIS BOT HAS NO RELEASE DATE**
+
 
 > **Lavalink**
 -Lava.link
