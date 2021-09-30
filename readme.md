@@ -13,7 +13,7 @@ Pencet [![Jalankan Projek ini](https://repl.it/badge/github/SudhanPlayz/Discord-
 
 Tunggu Sampai replit kalian ke load 1-5 Menit!
 
-Kemudian kamu bisa mengedit`botconfig.js` Dan isi Lava link kalian[Lavalink](https://github.com/freyacodes/Lavalink), Token, Discord_ClientID, Discord_ClientSecret, Spotify_ClientID, Spotify_ClientSecret.
+Kemudian kamu bisa mengedit`botconfig.js` Dan isi Lava link kalian [Lavalink](https://github.com/freyacodes/Lavalink), Token, Discord_ClientID, Discord_ClientSecret, Spotify_ClientID, Spotify_ClientSecret.
 
 > Jika kamu mau ngehost lavalink nya bisa lihat Contohnya -> [repo](https://github.com/DarrenOfficial/lavalink-replit)
 
