@@ -1,6 +1,19 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> KannaMusic <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">Jangan Lupa sertakan Kredit Yha!</p>
 
+
+## ❗Langkah❗
+- [Node.js 14+](https://nodejs.org/en/download/)
+- discord.js@12.5.3
+- [Lavalink Server](https://github.com/freyacodes/Lavalink#server-configuration)
+
+
+## 📸 Screenshots
+
+![Contoh](https://media.discordapp.net/attachments/838040347278835752/893102970693115914/unknown.png?width=503&height=480)
+
+**Jangan Join hanya karna lavalink bermasalah!**
+
 > **Kalian minimal Menggunakan Discord.js 12 atau kebawah,Jika 12 keatas Bot Nya akan Rusak**
 >
 > **Versi Selanjutnya Mungkin Akan dibikin Segera~**
