@@ -8,13 +8,14 @@ Port:80
 Password: Youshallnotpass
 
 > NOTE: Q:Loh Kok make Lavalink emang berguna?
+>       
 >       A:Iya Sangat Berguna supaya music nya bisa jalan di Voice server kalian
 
 ## ✨Kalian Bisa menggunakan Bot ini✨
 
  Kalian Hanya Perlu copy Link
 ## [Klik Link Ini](https://github.com/CarameloSz/KannaMusic)
-# 1 Bikin Akun -> [Repl.it(https://repl.it)
+ 1.Bikin Akun -> [Repl.it(https://repl.it)
 Semoga Membantu.
 
 [![Jalankan Di Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
