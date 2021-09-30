@@ -12,6 +12,10 @@
 
 ![Contoh](https://media.discordapp.net/attachments/838040347278835752/893102970693115914/unknown.png?width=503&height=480)
 
+![Contoh](https://media.discordapp.net/attachments/838040347278835752/893106078869504000/unknown.png?width=964&height=480)
+
+
+
 **Jangan Join hanya karna lavalink bermasalah!**
 
 > **Kalian minimal Menggunakan Discord.js 12 atau kebawah,Jika 12 keatas Bot Nya akan Rusak**
@@ -31,7 +35,7 @@
 >       
 >       A:Iya Sangat Berguna supaya music nya bisa jalan di Voice server kalian
 
-## ✨Kalian Bisa menggunakan Bot ini✨
+## 💨 Jalankan Project
 
 ## 1.Bikin Akun -> [Repl.it](https://repl.it)
 Semoga Membantu.
