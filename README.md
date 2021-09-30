@@ -14,8 +14,8 @@ Kalian bisa klik Link ->
 
 ## 📝 [Support Server](https://discord.gg/fqjdsyEq24)
 
-### **Jika Memiliki masalah tentang bot boleh masuk ke server
-Kami tidak akan Melayani tentang dashboard**
+### Jika Memiliki masalah tentang bot boleh masuk ke server
+Kami tidak akan Melayani tentang dashboard
 
 
 ## 📸 Screenshots
@@ -55,3 +55,8 @@ Kami tidak akan Melayani tentang dashboard**
 
 
 [Credit!](https://github.com/SudhanPlayz/Discord-MusicBot)
+
+
+
+Dan jangan Lupa
+[ChaewonLucubanged](https://media.discordapp.net/attachments/838625124994252801/893107901231681576/db529151f5615172c35a878a0d120cad.jpg?width=360&height=480)
