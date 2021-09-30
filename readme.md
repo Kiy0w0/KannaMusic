@@ -4,33 +4,33 @@
 - Bikin Aplikasi baru+Bot baru,jika sudah punya bot yang lama bisa digunakan
 - Bikin Bot invite Link disini -> [here](https://discordapi.com/permissions.html)
 - Save bot token kalian
-## Ambil Client & Client Secret Spotify Kalian Di link bawah ini!
-- login [here](https://developer.spotify.com/dashboard/) Login/Bikin akun,kemudian Bikin aplikasi
+## Ambil Client & Client Secret Spotify Kalian!
+- login [Klik Disini](https://developer.spotify.com/dashboard/) Login/Bikin akun,kemudian Bikin aplikasi
 
-# Installation
+# Penginstallan
 
-Click [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
+Pencet [![Jalankan Projek ini](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/github/CarameloSz/KannaMusic)
 
-Then let it load the project, It may take 1 - 5 min.
+Tunggu Sampai replit kalian ke load 1-5 Menit!
 
-Then you'll need to edit the `botconfig.js` and fill in the [Lavalink](https://github.com/freyacodes/Lavalink), Token, Discord_ClientID, Discord_ClientSecret, Spotify_ClientID, Spotify_ClientSecret.
+Kemudian kamu bisa mengedit`botconfig.js` Dan isi Lava link kalian[Lavalink](https://github.com/freyacodes/Lavalink), Token, Discord_ClientID, Discord_ClientSecret, Spotify_ClientID, Spotify_ClientSecret.
 
-> If you want to host lavalink on replit you can check out this [repo](https://github.com/DarrenOfficial/lavalink-replit)
+> Jika kamu mau ngehost lavalink nya bisa lihat Contohnya -> [repo](https://github.com/DarrenOfficial/lavalink-replit)
 
 ### dashboard setup
-* Add your replit url into your `botconfig.js`
+* Tambahkan Bot url kalian ke `botconfig.js`
 
-![Example](https://i.imgur.com/JBuNrSe.png)
-> Make sure that you use all lowercase, **there must be no capital letter.**
+![Contoh](https://i.imgur.com/JBuNrSe.png)
+> Pastikan Anda menggunakan huruf kecil semua, **Tidak ada yang huruf kapital.**
 
-* Go to the Discord Developer Portal under the OAuth2 tab.
+* Pergi ke Discord Developer Portal Di tab OAuth2.
 
 ![BangOauth](https://i.imgur.com/miExkYt.png)
-> Make sure that you use all lowercase, **there must be no capital letter.** also make sure to add `https://` and `http://`
+> Pastikan Anda menggunakan huruf kecil semua, **tidak boleh ada huruf kapital.** juga pastikan untuk menambahkan `https://` dan `http://`
 
-### Final
+### Terakhir.
 
-Once done you can restart your bot, then invite it using this url template. https://discord.com/oauth2/authorize?client_id=CLIENT_ID&scope=bot%20applications.commands&permissions=2205280576
+Setelah anda merestart bot anda, Kemudian Invite menggunakan Template ini. [Template](https://discord.com/oauth2/authorize?client_id=CLIENT_ID&scope=bot%20applications.commands&permissions=2205280576)
 
 * CLIENT_ID needs to be replaced with your bot Id
 * Permission calculator: [learn more](https://finitereality.github.io/permissions-calculator)
