@@ -6,12 +6,9 @@
 > **Versi Selanjutnya Mungkin Akan dibikin Segera~**
 
 
-> **Lavalink**
-
+## **Lavalink**
 -Lava.link
-
 -Port:80
-
 -Password: Youshallnotpass
 
 > NOTE: Q:Loh Kok make Lavalink emang berguna?
