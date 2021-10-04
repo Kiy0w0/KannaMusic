@@ -20,9 +20,9 @@ Kami tidak akan Melayani tentang dashboard
 
 ## 📸 Screenshots
 
-![Contoh](https://media.discordapp.net/attachments/838040347278835752/893102970693115914/unknown.png?width=503&height=480)
+![Contoh](https://media2.giphy.com/media/uXOm25ZhpwuBINRMQf/giphy.gif?cid=790b76114ea5b22fbc691c4419b10406fdf7b69e0ecc0139&rid=giphy.gif&ct=g)
 
-![Contoh](https://media.discordapp.net/attachments/838040347278835752/893106078869504000/unknown.png?width=964&height=480)
+![Contoh](https://media3.giphy.com/media/66DoPImbjGqMsAK4x3/giphy.gif?cid=790b7611119513448edb43c79d3a51a9d0365264a1cefb3e&rid=giphy.gif&ct=g)
 
 
 
